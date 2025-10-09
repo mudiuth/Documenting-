@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11514f2c2f632d68",
+        "id": "09e0acbb6066c359",
         "type": "tabs",
         "children": [
           {
-            "id": "e16d002400831561",
+            "id": "fe54d093aac9e836",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
+                "file": "junk notes/junk notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "junk notes"
             }
           }
         ]
@@ -139,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "junk notes/junk notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of junk notes"
             }
           }
         ],
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb940b09ac7b1757",
+  "active": "fe54d093aac9e836",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Untitled 2.base",
     "Untitled 1.base",
+    "Untitled.base",
     "junk notes/junk notes.md",
     "junk notes",
     "Welcome.md"
