@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "junk notes/junk notes.md",
+                "file": "binary exploitation/stack canaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "junk notes"
+              "title": "stack canaries"
             }
           }
         ]
@@ -170,10 +170,14 @@
   },
   "active": "fe54d093aac9e836",
   "lastOpenFiles": [
+    "memory cs50 class 4/memory.md",
+    "binary exploitation/stack canaries.md",
+    "binary exploitation",
+    "junk notes/junk notes.md",
+    "memory cs50 class 4",
     "Untitled 2.base",
     "Untitled 1.base",
     "Untitled.base",
-    "junk notes/junk notes.md",
     "junk notes",
     "Welcome.md"
   ]
