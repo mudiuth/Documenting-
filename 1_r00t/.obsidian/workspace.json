@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary exploitation/stack canaries.md",
+                "file": "baby_bof/Baby_bof walkthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stack canaries"
+              "title": "Baby_bof walkthrough"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "268388576ec4c830",
@@ -171,8 +170,12 @@
   },
   "active": "fe54d093aac9e836",
   "lastOpenFiles": [
-    "junk notes/junk notes.md",
+    "Pasted image 20251014235057.png",
+    "Untitled 3.base",
+    "baby_bof/Baby_bof walkthrough.md",
+    "baby_bof",
     "binary exploitation/stack canaries.md",
+    "junk notes/junk notes.md",
     "memory cs50 class 4/memory.md",
     "binary exploitation",
     "memory cs50 class 4",
