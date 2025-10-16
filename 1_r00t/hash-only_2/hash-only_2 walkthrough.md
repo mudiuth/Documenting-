@@ -12,4 +12,10 @@ okay we are logged into a restricted shell `rbash` and this is going to be harde
 - using `/` to run commands outside `$PATH`
 - importing functions from the environment 
 - starting another shell like (`/bin/bash`)
--
+so the goal is to bypass the restricted shell... as we know, humans always make mistakes and thats what we have to look for. so i went to chatgpt and asked if the restricted shell can be bypassed and i got some really helpful insights. 
+![[Pasted image 20251016100729.png]]
+realised that we had write access to the home user directory. had to look for how many more commands we were allowed to run. this is where my enumeration started from.  i found out that the machine had perl and i could run pearl.. and i ran this script to create another shell. 
+![[Pasted image 20251016100937.png]]
+we still in the `rbash` but i think we are less restricted. so here our path hijacking worked just fine and we got the flag.
+thank you
+
