@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "binary analysis/binary analysis basics.md",
+                "file": "hash-only_2/hash-only_2 walkthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binary analysis basics"
+              "title": "hash-only_2 walkthrough"
             }
           }
         ]
@@ -170,24 +170,34 @@
   },
   "active": "fe54d093aac9e836",
   "lastOpenFiles": [
+    "Pasted image 20251016085849.png",
+    "Pasted image 20251016085051.png",
+    "junk notes/junk notes.md",
+    "hash-only_2/hash-only_2 walkthrough.md",
+    "hash-only_2",
+    "hash-only_1/walkthrough.md",
+    "Untitled",
+    "Pasted image 20251016012457.png",
+    "Pasted image 20251016012431.png",
+    "Pasted image 20251016011308.png",
+    "Pasted image 20251016011035.png",
+    "Pasted image 20251016010952.png",
+    "Pasted image 20251016010704.png",
+    "binary analysis/binary analysis basics.md",
+    "hash-only_1",
     "baby_bof/Baby_bof walkthrough.md",
     "Welcome.md",
     "Untitled 3.base",
-    "binary analysis/binary analysis basics.md",
     "binary analysis",
     "Pasted image 20251015083412.png",
     "Pasted image 20251015000519.png",
     "Pasted image 20251015000503.png",
-    "Pasted image 20251014235057.png",
     "baby_bof",
     "binary exploitation/stack canaries.md",
-    "junk notes/junk notes.md",
     "memory cs50 class 4/memory.md",
     "binary exploitation",
     "memory cs50 class 4",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled.base",
-    "junk notes"
+    "Untitled 1.base"
   ]
 }
