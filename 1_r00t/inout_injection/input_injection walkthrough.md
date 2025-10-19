@@ -1,0 +1,1 @@
+`00000000004011b6   257 FUNC    GLOBAL DEFAULT   15 main` ->  memory for the main function according to the readelf command 
