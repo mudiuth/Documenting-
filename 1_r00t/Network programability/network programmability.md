@@ -10,4 +10,4 @@ network innovations helps organisations differentiate their products and solve p
 examples if network innovation 
 abnormal traffic detection eg a deep packet inspection (DPI) tool driving quality of service (QoS) policy, custom integrations to critical mission applications, and automated response to link failure 
 network programability enables automatic and intelligent configuration changes to be also based on business priority 
-network innovation un WAN failure. during this failure a reactive script could change the ACLs to blovk low priority traffic from the backup link and even 
+network innovation un WAN failure. during this failure a reactive script could change the ACLs to blovk low priority traffic from the backup link and even configure policy based routing
