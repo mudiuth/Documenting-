@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "echo_valley/Untitled.md",
+                "file": "echo_valley/walkthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "walkthrough"
             }
           }
         ]
@@ -171,7 +171,7 @@
   "active": "17cda78a004bb3ae",
   "lastOpenFiles": [
     "corrupt files/corrupt_files walkthrough.md",
-    "echo_valley/Untitled.md",
+    "echo_valley/walkthrough.md",
     "echo_valley",
     "Pasted image 20251022042730.png",
     "Pasted image 20251022042428.png",
