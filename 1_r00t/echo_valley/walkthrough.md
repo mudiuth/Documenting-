@@ -10,3 +10,5 @@ now how we shall get to print the address_of the binary = base_address of the bi
 the gold we are looking for is the base of the whole binary. this is because the code addresses are randomised by the PIE (position independent executables)
 to get the base of the binary, 
 0x55f16f26e413
+
+after getting the golden treasure (our address for the print_flag function) then we try to inject it into the code.. using the format string vulnerability. 
