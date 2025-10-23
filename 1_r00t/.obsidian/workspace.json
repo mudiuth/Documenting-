@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setting up a server/setting up a server.md",
+                "file": "format_strings explained/format strings explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "setting up a server"
+              "title": "format strings explained"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "268388576ec4c830",
@@ -170,8 +171,8 @@
   },
   "active": "17cda78a004bb3ae",
   "lastOpenFiles": [
-    "format_strings explained/format strings explained.md",
     "setting up a server/setting up a server.md",
+    "format_strings explained/format strings explained.md",
     "setting up a server",
     "Untitled 3.base",
     "format_strings explained",
