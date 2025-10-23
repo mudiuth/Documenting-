@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17cda78a004bb3ae",
+  "active": "e7cbf60b4dfeb488",
   "lastOpenFiles": [
+    "Untitled 1",
     "Network programability/network.py",
     "Pasted image 20251022152430.png",
     "Pasted image 20251022152045.png",
@@ -201,7 +202,6 @@
     "baby_bof/Baby_bof walkthrough.md",
     "Welcome.md",
     "Untitled 3.base",
-    "binary analysis",
     "binary exploitation/stack canaries.md",
     "memory cs50 class 4/memory.md"
   ]
