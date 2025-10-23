@@ -9,5 +9,13 @@ https://www.scitepress.org/publishedPapers/2024/128524/pdf/index.html
 ![[Pasted image 20251023142127.png]]
 this is how a stack looks like in the alignment.
 
-printf(“\xef\xbe\xad\xde%x%x%x%s”, A, B, C);
-suppose this is my pay load, this tells the cpu to skip to the 3rd position of the stack (using %x) and then treat the fst 5 bytes (the address in little endian) as an address and read what that address has and gives it to me as a byte... right?
+i should know where 
+![[Pasted image 20251023161236.png]]
+from this, it shows that the my data that i enter is written in the 6th position every time the executable runs '
+
+
+
+
+
+
+server side -> packet -> bind -> accept -> recv -> send -> recv -> close
