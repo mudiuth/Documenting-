@@ -12,3 +12,5 @@ to get the base of the binary,
 0x55f16f26e413
 
 after getting the golden treasure (our address for the print_flag function) then we try to inject it into the code.. using the format string vulnerability. 
+
+when solving this challenge, getting your input injection.  to write to an address, u have to enter the address to the input and then write to it using `%n` 

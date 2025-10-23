@@ -18,4 +18,3 @@ from this, it shows that the my data that i enter is written in the 6th position
 
 
 
-server side -> packet -> bind -> accept -> recv -> send -> recv -> close
