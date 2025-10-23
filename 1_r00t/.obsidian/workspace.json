@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "format_strings explained/format strings explained.md",
+                "file": "setting up a server/setting up a server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "format strings explained"
+              "title": "setting up a server"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "17cda78a004bb3ae",
   "lastOpenFiles": [
-    "Untitled 3.base",
     "format_strings explained/format strings explained.md",
+    "setting up a server/setting up a server.md",
+    "setting up a server",
+    "Untitled 3.base",
     "format_strings explained",
     "echo_valley/walkthrough.md",
     "Untitled 1",
@@ -197,10 +199,8 @@
     "Pasted image 20251016085849.png",
     "Pasted image 20251016085051.png",
     "junk notes/junk notes.md",
-    "hash-only_2",
     "hash-only_1/walkthrough.md",
     "Pasted image 20251016012457.png",
-    "hash-only_1",
     "baby_bof/Baby_bof walkthrough.md",
     "Welcome.md",
     "binary exploitation/stack canaries.md",
