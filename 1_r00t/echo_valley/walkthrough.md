@@ -14,3 +14,7 @@ to get the base of the binary,
 after getting the golden treasure (our address for the print_flag function) then we try to inject it into the code.. using the format string vulnerability. 
 
 when solving this challenge, getting your input injection.  to write to an address, u have to enter the address to the input and then write to it using `%n` 
+
+A one time pad is a key that is the same length as the plaintext message that it is trying to encrypt.
+22nd july 2022
+21 of feb 2020
